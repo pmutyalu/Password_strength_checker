@@ -7,6 +7,7 @@ function Strength(password) {
     i++;
   }
 
+
   if (/[A-Z]/.test(password)) {
     i++;
   }
